@@ -64,6 +64,7 @@
 - دکمه رفرش لیست ایمیل  
 - نسخه موبایل با منوی پایین  
 - عنوان طلایی و رابط شیشه‌ای  
+- بازیابی رمز و دکمه خروج از پنل  
 
 ---
 
@@ -114,6 +115,21 @@
 | `CF_API_TOKEN` | Secret | توکن API با دسترسی Email Routing |
 
 بعد از تنظیم متغیرها یک‌بار دیگر **Deploy** بزنید.
+
+##### بازیابی رمز عبور
+
+رمز ورود همان `PANEL_PASSWORD` است. اگر فراموش کردید، در صفحه ورود روی **رمز را فراموش کردم** بزنید تا مراحل نمایش داده شود:
+
+1. Cloudflare → Workers & Pages → Worker پنل (مثلاً postbox)  
+2. **Settings** → **Variables and Secrets**  
+3. `PANEL_PASSWORD` را Edit کنید و رمز جدید بگذارید  
+4. Save / Deploy  
+5. با رمز جدید وارد پنل شوید  
+
+##### خروج از پنل
+
+بعد از ورود، پایین منوی کناری دکمه **خروج از پنل** هست. با زدن آن از حساب خارج می‌شوید و صفحه ورود دوباره نشان داده می‌شود.
+
 
 ##### ساخت توکن API
 
@@ -295,6 +311,11 @@ Settings → Bindings → Add → D1 → Variable name: **\`DB\`** → select \`
 | \`CF_API_TOKEN\` | Secret | Token with Email Routing Edit |
 
 API token: Zone → Email Routing → **Edit**, Zone → Zone → **Read**, scoped to your zone.
+
+**Forgot password:** on the login page tap «رمز را فراموش کردم» for steps, or reset `PANEL_PASSWORD` in Worker → Settings → Variables and Secrets, then Deploy.
+
+**Logout:** use **خروج از پنل** at the bottom of the sidebar to return to the login screen.
+
 
 #### 5) Email Routing
 
