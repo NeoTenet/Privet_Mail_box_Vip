@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Neo Box Panel" width="100%">
+  <img src="./banner.jpg" alt="Neo Box Panel" width="100%">
 </p>
 
 <h1 align="center">📬 Neo Box Panel</h1>
@@ -48,21 +48,21 @@
 
 ### دسکتاپ — شب
 
-![desktop dark](./screenshots/desktop-dark.png)
+![دسکتاپ شب](./screenshots/desktop-dark.jpg)
 
 ### دسکتاپ — روز
 
-![desktop light](./screenshots/desktop-light.png)
+![دسکتاپ روز](./screenshots/desktop-light.jpg)
 
 ### موبایل
 
 | شب | روز |
 |----|-----|
-| ![m dark](./screenshots/mobile-dark.png) | ![m light](./screenshots/mobile-light.png) |
+| ![موبایل شب](./screenshots/mobile-dark.jpg) | ![موبایل روز](./screenshots/mobile-light.jpg) |
 
 ### دامنه‌ها
 
-![domains](./screenshots/domains-modal.png)
+![دامنه‌ها](./screenshots/domains-modal.jpg)
 
 ---
 
