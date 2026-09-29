@@ -247,7 +247,7 @@ test@زیردامنه-فیک.دامنه-اصلی.com
 | Unlimited fake domains | Need a separate server |
 | Works on mobile & desktop | — |
 
-> Copying without credit is not allowed.  
+> Copying allowed No Problem .  
 > Source: [github.com/NeoTenet/Privet_Mail_box_Vip](https://github.com/NeoTenet/Privet_Mail_box_Vip)
 
 ---
