@@ -36,7 +36,8 @@
 | کار روی موبایل و دسکتاپ | — |
 
 > کپی‌ برداری مشکلی نداره اگر خاستین میتونین پنل گسترشش بدین.  
-> منبع: [github.com/NeoTenet/Privet_Mail_box_Vip](https://github.com/NeoTenet/Privet_Mail_box_Vip)
+> دامنه رایگان : 
+https://youtu.be/ugFFcBxXvrg
 
 ---
 
@@ -248,7 +249,8 @@ test@زیردامنه-فیک.دامنه-اصلی.com
 | Works on mobile & desktop | — |
 
 > Copying allowed No Problem .  
-> Source: [github.com/NeoTenet/Privet_Mail_box_Vip](https://github.com/NeoTenet/Privet_Mail_box_Vip)
+> Free domin : 
+https://youtu.be/ugFFcBxXvrg
 
 ---
 
